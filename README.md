@@ -46,7 +46,7 @@ New forecasting
 
 Final Forecasting & Evaluation → Producing final close price forecasts and analyzing results against benchmarks.
 
-# 🔮 Applications
+## 🔮 Applications
 
 * Beyond stock price forecasting, this project can be applied to various scenarios involving time series and numerical prediction, such as:
 
